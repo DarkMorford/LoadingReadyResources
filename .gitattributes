@@ -4,5 +4,10 @@
 # Meta-info files
 pack.mcmeta text
 
+# Resource files
+*.json text
+*.lang text
+#.txt  text
+
 # Images
 *.png binary
