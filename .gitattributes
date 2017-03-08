@@ -1,0 +1,8 @@
+# Anything not mentioned explicitly
+* text=auto
+
+# Meta-info files
+pack.mcmeta text
+
+# Images
+*.png binary
