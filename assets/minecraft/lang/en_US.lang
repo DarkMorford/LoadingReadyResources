@@ -15,20 +15,3 @@ item.appleGold.name=Golden Apple
 item.goldNugget.name=Glod Nugget
 item.carrotGolden.name=Golden Carrot
 item.horsearmorgold.name=Glod Horse Armor
-+tile.oreSilver.name=Silva Ore
- +tile.blockSilver.name=Block of Silva
- +
- +item.ingotSilver.name=Silva Ingot
- +item.swordSilver.name=Silva Sword
- +item.shovelSilver.name=Silva Shovel
- +item.pickaxeSilver.name=Silva Pickaxe
- +item.hatchetSilver.name=Silva Axe
- +item.hoeSilver.name=Silva Hoe
- +item.helmetSilver.name=Silva Helmet
- +item.chestplateSilver.name=Silva Chestplate
- +item.leggingsSilver.name=Silva Leggings
- +item.bootsSilver.name=Silva Boots
- +
- +item.SilverNugget.name=Silva Nugget
- +
- +
