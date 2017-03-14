@@ -1,0 +1,13 @@
+{
+	"entity.chicken.hurt": {
+		"replace": true,
+		"subtitle": "subtitles.entity.chicken.hurt",
+		"sounds": [
+			"bawk-1",
+			"bawk-2",
+			"bawk-3",
+			"bawk-4",
+			"bawk-5"
+		]
+	}
+}
