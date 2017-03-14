@@ -9,5 +9,12 @@
 			"bawk-4",
 			"bawk-5"
 		]
+	},
+	"entity.player.death": {
+		"replace": true,
+		"subtitle": "subtitles.entity.player.death",
+		"sounds": [
+			"you_died"
+		]
 	}
 }
