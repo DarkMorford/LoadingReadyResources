@@ -16,5 +16,12 @@
 		"sounds": [
 			"you_died"
 		]
+	},
+	"entity.chicken.egg": {
+		"replace": true,
+		"subtitle": "subtitles.entity.chicken.egg",
+		"sounds": [
+			"craphonk"
+		]
 	}
 }
