@@ -1,3 +1,8 @@
+#language properties
+language.name=English			#could use a special name. maybe use a poll.
+language.region=Canada			#could also be "an underground moonbase", or however you should word it.
+language.code=en_CA			#CA because Canada
+
 # Container labels
 container.chest=Chest Ahead
 container.chestDouble=Large Chest Ahead
