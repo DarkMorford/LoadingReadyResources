@@ -1,8 +1,4 @@
 
-language.name=English
-language.region=United States
-language.code=en_US
-
 gui.done=Done
 gui.cancel=Cancel
 gui.back=Back
@@ -314,7 +310,6 @@ options.video=Video Settings...
 options.language=Language...
 options.sounds=Music & Sounds...
 options.sounds.title=Music & Sound Options
-options.languageWarning=Language translations may not be 100%% accurate
 options.videoTitle=Video Settings
 options.customizeTitle=Customize World Settings
 options.music=Music

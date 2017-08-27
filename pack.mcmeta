@@ -2,5 +2,13 @@
 	"pack": {
 		"pack_format": 2,
 		"description": "Resources by LRR fans for LRR fans!"
+	},
+	
+	  "language":{
+      "en_MB":{
+         "name":"LRR-speak",
+         "region":"Moonbase",
+         "bidirectional":false
+      }
 	}
 }
