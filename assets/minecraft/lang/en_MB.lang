@@ -1,3 +1,8 @@
+# language properties
+language.name=LRR-speak
+language.region=A Underground Moonbase
+language.code=en_MB
+
 # Container labels
 container.chest=Chest Ahead
 container.chestDouble=Large Chest Ahead
@@ -32,3 +37,6 @@ entity.Squid.name=Kid
 entity.VillagerGolem.name=Iorn Golem
 entity.Witch.name=B**ch
 entity.Zombie.name=Zobmie
+
+#Options
+options.languageWarning=Language translations may not be 100%% complete or funny
