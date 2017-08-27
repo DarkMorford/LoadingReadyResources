@@ -1,4 +1,5 @@
-language.name=Canadian
+# language properties
+language.name=LRR-speak
 language.region=A Underground Moonbase
 language.code=en_MB
 
